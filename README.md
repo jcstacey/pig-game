@@ -16,4 +16,4 @@ Project utilized to interface with the DOM using JavaScript to create a simple b
 HTML, and CSS components were pre-existing from an Udemy Course, and consist of minor
 tweaks
 
-App.Js coded by myself utilizing fundamentals learned in the course.
+App.Js coded by myself utilizing JavaScript fundamentals learned.
